@@ -1,0 +1,17 @@
+---
+# <Description>
+# Copyright (C) <Year> KygekTeam
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# he Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+name: Plugin
+version: 1.0.0
+description: Description
+author: KygekTeam
+website: "https://github.com/KygekTeam/Plugin"
+api: 4.0.0
+main: KygekTeam\Plugin\Main
+...
