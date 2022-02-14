@@ -1,0 +1,12 @@
+# Whitelist mode
+*
+
+# Files
+!.gitignore
+!LICENSE
+!README.md
+
+# Directories
+!/.git/**
+!/codeStyles/**
+!/fileTemplates/**
